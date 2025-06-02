@@ -1,7 +1,9 @@
 # 👩🏻‍💻 Wenderson Junior
 
 **`Sênior Front-end Engineer`**
-Sou Engenheiro Front-End com mais de 8 anos de experiência em desenvolvimento de software, tendo atuado nas áreas de Back-End, FullStack e, mais recentemente, com foco total em Front-End — onde encontrei minha verdadeira paixão. Ao longo da minha trajetória, contribuí para a evolução de plataformas escaláveis, liderei equipes técnicas e participei de diversos projetos utilizando tecnologias e frameworks modernos como Vue.js, React, Nuxt.js, Next.js, Tailwind, SCSS e etc. Também atuo ativamente em decisões de arquitetura e na melhoria contínua de processos de engenharia.
+
+Sou um Engenheiro de Software focado em Front-End com mais de 8 anos de experiência em desenvolvimento de software, tendo atuado nas áreas de Back-End, FullStack e, mais recentemente, com foco total em Front-End — onde encontrei minha verdadeira paixão. 
+Ao longo da minha trajetória, contribuí para a evolução de plataformas escaláveis, liderei equipes técnicas e participei de diversos projetos utilizando tecnologias e frameworks modernos como Vue.js, React, Nuxt.js, Next.js, Tailwind, SCSS e etc. Também atuo ativamente em decisões de arquitetura e na melhoria contínua de processos de engenharia.
 
 ---
 
